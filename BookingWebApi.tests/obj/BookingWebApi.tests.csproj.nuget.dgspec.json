@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Wonder\\BookingApp\\BookingWebApi.tests\\BookingWebApi.tests.csproj": {}
+    "e:\\Wonder\\BookingApp\\BookingWebApi.tests\\BookingWebApi.tests.csproj": {}
   },
   "projects": {
-    "E:\\Wonder\\BookingApp\\BookingWebApi.tests\\BookingWebApi.tests.csproj": {
+    "e:\\Wonder\\BookingApp\\BookingWebApi.tests\\BookingWebApi.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Wonder\\BookingApp\\BookingWebApi.tests\\BookingWebApi.tests.csproj",
+        "projectUniqueName": "e:\\Wonder\\BookingApp\\BookingWebApi.tests\\BookingWebApi.tests.csproj",
         "projectName": "BookingWebApi.tests",
-        "projectPath": "E:\\Wonder\\BookingApp\\BookingWebApi.tests\\BookingWebApi.tests.csproj",
+        "projectPath": "e:\\Wonder\\BookingApp\\BookingWebApi.tests\\BookingWebApi.tests.csproj",
         "packagesPath": "C:\\Users\\Done.DESKTOP-27QLRLP\\.nuget\\packages\\",
-        "outputPath": "E:\\Wonder\\BookingApp\\BookingWebApi.tests\\obj\\",
+        "outputPath": "e:\\Wonder\\BookingApp\\BookingWebApi.tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
